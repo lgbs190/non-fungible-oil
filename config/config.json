@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x06ee7d7951d8FA8aAE1bBFAC5B345aa30331fE90",
+  "SCAN_LINK": "https://https://polygonscan.com/address/0x06ee7d7951d8fa8aae1bbfac5b345aa30331fe90",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Non-Fungible Oil",
+  "SYMBOL": "NFO",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/non-fungible-oil",
+  "SHOW_BACKGROUND": true
+}
